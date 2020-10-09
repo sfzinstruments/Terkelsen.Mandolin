@@ -1,4 +1,4 @@
-# Ovation Guitar
+# Terkelsen's Mandolin
 
 Contributed By: Lars Terkelsen
 
