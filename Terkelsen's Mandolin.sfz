@@ -1,0 +1,168 @@
+// Terkelsen's Mandolin
+// Contributed by: Lars Terkelsen
+//
+// Converted from the original GigaSampler version by S. Christian Collins
+// www.schristiancollins.com
+
+<control>
+default_path=samples/
+label_cc72=Note Release  set_cc72=18
+
+<global>
+ampeg_release=0.3  ampeg_release_oncc72=5.7
+
+<group> lokey=31  hikey=43  pitch_keycenter=43  tune=-5
+<region> sample=01g2 2.wav  lovel=0  hivel=63
+<region> sample=01g2 1.wav  lovel=64  hivel=127
+
+<group> lokey=44  hikey=44  pitch_keycenter=44
+<region> sample=02g+2 2.wav  lovel=0  hivel=63
+<region> sample=02g+2 1.wav  lovel=64  hivel=127
+
+<group> lokey=45  hikey=45  pitch_keycenter=45
+<region> sample=03a2 2.wav  lovel=0  hivel=63
+<region> sample=03a2 1.wav  lovel=64  hivel=127
+
+<group> lokey=46  hikey=46  pitch_keycenter=46
+<region> sample=04a+2 2.wav  lovel=0  hivel=63
+<region> sample=04a+2 1.wav  lovel=64  hivel=127
+
+<group> lokey=47  hikey=47  pitch_keycenter=47
+<region> sample=05b2 2.wav  lovel=0  hivel=63
+<region> sample=05b2 1.wav  lovel=64  hivel=127
+
+<group> lokey=48  hikey=48  pitch_keycenter=48
+<region> sample=06c3 2.wav  lovel=0  hivel=63
+<region> sample=06c3 1.wav  lovel=64  hivel=127
+
+<group> lokey=49  hikey=49  pitch_keycenter=49
+<region> sample=07c+3 2.wav  lovel=0  hivel=63
+<region> sample=07c+3 1.wav  lovel=64  hivel=127
+
+<group> lokey=50  hikey=50  pitch_keycenter=50
+<region> sample=08d3 2.wav  lovel=0  hivel=63
+<region> sample=08d3 1.wav  lovel=64  hivel=127
+
+<group> lokey=51  hikey=51  pitch_keycenter=51
+<region> sample=09d+3 2.wav  lovel=0  hivel=63
+<region> sample=09d+3 1.wav  lovel=64  hivel=127
+
+<group> lokey=52  hikey=52  pitch_keycenter=52
+<region> sample=10e3 2.wav  lovel=0  hivel=63
+<region> sample=10e3 1.wav  lovel=64  hivel=127
+
+<group> lokey=53  hikey=53  pitch_keycenter=53  tune=-5
+<region> sample=11f3 2.wav  lovel=0  hivel=63
+<region> sample=11f3 1.wav  lovel=64  hivel=127
+
+<group> lokey=54  hikey=54  pitch_keycenter=54  tune=-5
+<region> sample=12f+3 2.wav  lovel=0  hivel=63
+<region> sample=12f+3 1.wav  lovel=64  hivel=127
+
+<group> lokey=55  hikey=55  pitch_keycenter=55
+<region> sample=13g3 2.wav  lovel=0  hivel=63
+<region> sample=13g3 1.wav  lovel=64  hivel=127
+
+<group> lokey=56  hikey=56  pitch_keycenter=56
+<region> sample=14g+3 2.wav  lovel=0  hivel=63
+<region> sample=14g+3 1.wav  lovel=64  hivel=127
+
+<group> lokey=57  hikey=57  pitch_keycenter=57  tune=-3
+<region> sample=15a3 2.wav  lovel=0  hivel=63
+<region> sample=15a3 1.wav  lovel=64  hivel=127
+
+<group> lokey=58  hikey=58  pitch_keycenter=58
+<region> sample=16a+3 2.wav  lovel=0  hivel=63
+<region> sample=16a+3 1.wav  lovel=64  hivel=127
+
+<group> lokey=59  hikey=59  pitch_keycenter=59
+<region> sample=17b3 2.wav  lovel=0  hivel=63
+<region> sample=17b3 1.wav  lovel=64  hivel=127
+
+<group> lokey=60  hikey=60  pitch_keycenter=60
+<region> sample=18c4 2.wav  lovel=0  hivel=63
+<region> sample=18c4 1.wav  lovel=64  hivel=127
+
+<group> lokey=61  hikey=61  pitch_keycenter=61  tune=5
+<region> sample=19c+4 2.wav  lovel=0  hivel=63
+<region> sample=19c+4 1.wav  lovel=64  hivel=127
+
+<group> lokey=62  hikey=62  pitch_keycenter=62  tune=3
+<region> sample=20d4 2.wav  lovel=0  hivel=63
+<region> sample=20d4 1.wav  lovel=64  hivel=127
+
+<group> lokey=63  hikey=63  pitch_keycenter=63
+<region> sample=21d+4 2.wav  lovel=0  hivel=63
+<region> sample=21d+4 1.wav  lovel=64  hivel=127
+
+<group> lokey=64  hikey=64  pitch_keycenter=64  tune=7
+<region> sample=22e4 2.wav  lovel=0  hivel=63
+<region> sample=22e4 1.wav  lovel=64  hivel=127
+
+<group> lokey=65  hikey=65  pitch_keycenter=65
+<region> sample=23f4 2.wav  lovel=0  hivel=63
+<region> sample=23f4 1.wav  lovel=64  hivel=127
+
+<group> lokey=66  hikey=66  pitch_keycenter=66  tune=3
+<region> sample=24f+4 2.wav  lovel=0  hivel=63
+<region> sample=24f+4 1.wav  lovel=64  hivel=127
+
+<group> lokey=67  hikey=67  pitch_keycenter=67  tune=5
+<region> sample=25g4 2.wav  lovel=0  hivel=63
+<region> sample=25g4 1.wav  lovel=64  hivel=127
+
+<group> lokey=68  hikey=68  pitch_keycenter=68  tune=5
+<region> sample=26g+4 2.wav  lovel=0  hivel=63
+<region> sample=26g+4 1.wav  lovel=64  hivel=127
+
+<group> lokey=69  hikey=69  pitch_keycenter=69  tune=4
+<region> sample=27a4 2.wav  lovel=0  hivel=63
+<region> sample=27a4 1.wav  lovel=64  hivel=127
+
+<group> lokey=70  hikey=70  pitch_keycenter=70  tune=5
+<region> sample=28a+4 2.wav  lovel=0  hivel=63
+<region> sample=28a+4 1.wav  lovel=64  hivel=127
+
+<group> lokey=71  hikey=71  pitch_keycenter=71  tune=6
+<region> sample=29b4 2.wav  lovel=0  hivel=63
+<region> sample=29b4 1.wav  lovel=64  hivel=127
+
+<group> lokey=72  hikey=72  pitch_keycenter=72  tune=8
+<region> sample=30c5 2.wav  lovel=0  hivel=63
+<region> sample=30c5 1.wav  lovel=64  hivel=127
+
+<group> lokey=73  hikey=73  pitch_keycenter=73  tune=6
+<region> sample=31c+5 2.wav  lovel=0  hivel=63
+<region> sample=31c+5 1.wav  lovel=64  hivel=127
+
+<group> lokey=74  hikey=74  pitch_keycenter=74  tune=7
+<region> sample=32d5 2.wav  lovel=0  hivel=63
+<region> sample=32d5 1.wav  lovel=64  hivel=127
+
+<group> lokey=75  hikey=75  pitch_keycenter=75  tune=7
+<region> sample=33d+5 2.wav  lovel=0  hivel=63
+<region> sample=33d+5 1.wav  lovel=64  hivel=127
+
+<group> lokey=76  hikey=76  pitch_keycenter=76  tune=8
+<region> sample=34e5 2.wav  lovel=0  hivel=63
+<region> sample=34e5 1.wav  lovel=64  hivel=127
+
+<group> lokey=77  hikey=77  pitch_keycenter=77  tune=7
+<region> sample=35f5 2.wav  lovel=0  hivel=63
+<region> sample=35f5 1.wav  lovel=64  hivel=127
+
+<group> lokey=78  hikey=78  pitch_keycenter=78  tune=5
+<region> sample=36f+5 2.wav  lovel=0  hivel=63
+<region> sample=36f+5 1.wav  lovel=64  hivel=127
+
+<group> lokey=79  hikey=79  pitch_keycenter=79  tune=5
+<region> sample=37g5 2.wav  lovel=0  hivel=63
+<region> sample=37g5 1.wav  lovel=64  hivel=127
+
+<group> lokey=80  hikey=80  pitch_keycenter=80  tune=5
+<region> sample=38g+5 2.wav  lovel=0  hivel=63
+<region> sample=38g+5 1.wav  lovel=64  hivel=127
+
+<group> lokey=81  hikey=91  pitch_keycenter=81  tune=6
+<region> sample=39a5 2.wav  lovel=0  hivel=63
+<region> sample=39a5 1.wav  lovel=64  hivel=127
